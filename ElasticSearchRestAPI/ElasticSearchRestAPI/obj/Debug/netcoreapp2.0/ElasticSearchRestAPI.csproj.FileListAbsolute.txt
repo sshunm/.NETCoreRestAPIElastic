@@ -1,0 +1,11 @@
+D:\Projects\NETCore\.NETCoreRestAPIElastic\ElasticSearchRestAPI\ElasticSearchRestAPI\bin\Debug\netcoreapp2.0\ElasticSearchRestAPI.deps.json
+D:\Projects\NETCore\.NETCoreRestAPIElastic\ElasticSearchRestAPI\ElasticSearchRestAPI\bin\Debug\netcoreapp2.0\ElasticSearchRestAPI.runtimeconfig.json
+D:\Projects\NETCore\.NETCoreRestAPIElastic\ElasticSearchRestAPI\ElasticSearchRestAPI\bin\Debug\netcoreapp2.0\ElasticSearchRestAPI.runtimeconfig.dev.json
+D:\Projects\NETCore\.NETCoreRestAPIElastic\ElasticSearchRestAPI\ElasticSearchRestAPI\bin\Debug\netcoreapp2.0\ElasticSearchRestAPI.dll
+D:\Projects\NETCore\.NETCoreRestAPIElastic\ElasticSearchRestAPI\ElasticSearchRestAPI\bin\Debug\netcoreapp2.0\ElasticSearchRestAPI.pdb
+D:\Projects\NETCore\.NETCoreRestAPIElastic\ElasticSearchRestAPI\ElasticSearchRestAPI\obj\Debug\netcoreapp2.0\ElasticSearchRestAPI.csproj.CoreCompileInputs.cache
+D:\Projects\NETCore\.NETCoreRestAPIElastic\ElasticSearchRestAPI\ElasticSearchRestAPI\obj\Debug\netcoreapp2.0\ElasticSearchRestAPI.AssemblyInfoInputs.cache
+D:\Projects\NETCore\.NETCoreRestAPIElastic\ElasticSearchRestAPI\ElasticSearchRestAPI\obj\Debug\netcoreapp2.0\ElasticSearchRestAPI.AssemblyInfo.cs
+D:\Projects\NETCore\.NETCoreRestAPIElastic\ElasticSearchRestAPI\ElasticSearchRestAPI\obj\Debug\netcoreapp2.0\ElasticSearchRestAPI.dll
+D:\Projects\NETCore\.NETCoreRestAPIElastic\ElasticSearchRestAPI\ElasticSearchRestAPI\obj\Debug\netcoreapp2.0\ElasticSearchRestAPI.pdb
+D:\Projects\NETCore\.NETCoreRestAPIElastic\ElasticSearchRestAPI\ElasticSearchRestAPI\obj\Debug\netcoreapp2.0\ElasticSearchRestAPI.csprojResolveAssemblyReference.cache
